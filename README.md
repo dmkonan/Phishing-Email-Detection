@@ -4,6 +4,9 @@
 A machine learning project focused on detecting phishing emails through Natural Language Processing (NLP) techniques. This project showcases not only technical implementation, but also critical thinking, storytelling, and practical cybersecurity applications.
 
 ---
+### Dataset: Phishing Email Detection
+### Source: [Kaggle](https://www.kaggle.com/datasets/subhajournal/phishingemails?select=Phishing_Email.csv)
+---
 ## Table of Contents
 - [Problem Statement](#-problem-statement)
 - [Project Objectives](#project-objectives)
